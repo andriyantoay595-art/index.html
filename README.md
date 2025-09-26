@@ -15,25 +15,25 @@
 
 <h3> Bagian Profile</h3>
 <ol> 
-<li>`<h2>PROFILE</h2>` → subjudul untuk bagian biodata atau deskripsi diri.</li>
-<li>`<p>` → paragraf untuk menuliskan deskripsi tentang diri, minat, kemampuan, dan tujuan.</li>
-<li>`style="..."` → bisa ditambahkan untuk mengatur font, ukuran, jarak, dan perataan teks.</li>
+<li>h2 PROFILE → subjudul untuk bagian biodata atau deskripsi diri.</li>
+  <li>p → paragraf untuk menuliskan deskripsi tentang diri, minat, kemampuan, dan tujuan.</li> 
+  <li>style="..." → bisa ditambahkan untuk mengatur font, ukuran, jarak, dan perataan teks.</li>
 </ol>
 
 <h3> Bagian Pendidikan Terakhir </h3>
 <ol> 
-<li>`<h2>PENDIDIKAN TERAKHIR</h2>` → subjudul untuk menampilkan riwayat pendidikan.</li>
-<li>`<p>` → paragraf menjelaskan pendidikan terakhir, semester, kursus tambahan, atau pengalaman belajar.</li>
-<li>`<table>` → membuat tabel untuk menampilkan sekolah dan tahun belajar secara rapi.</li>
-<li>`<tr>` → setiap baris dalam tabel (judul atau data sekolah).</li>
-<li>`<th>` → sel header dalam tabel atau untuk menampilkan nama sekolah dan tahun.</li>
+<li>h2 PENDIDIKAN TERAKHIR → subjudul untuk menampilkan riwayat pendidikan.</li> 
+  <li>p → paragraf menjelaskan pendidikan terakhir, semester, kursus tambahan, atau pengalaman belajar.</li>
+  <li>table → membuat tabel untuk menampilkan sekolah dan tahun belajar secara rapi.</li>
+  <li>tr → setiap baris dalam tabel (judul atau data sekolah).</li>
+  <li>th → sel header dalam tabel atau untuk menampilkan nama sekolah dan tahun.</li>
 </ol>
 
 <h3> Bagian Skill </h3>
 <ol>
-  <li>`<h2>SKILL</h2>` → subjudul untuk menampilkan kemampuan atau skill yang dimiliki.</li>
-<li>`<ul>` → daftar tidak berurutan (bullet list) untuk setiap skill.</li>
-<li>`<li>` → item daftar yang berisi satu skill tertentu.</li>
+ <li>h2 SKILL → subjudul untuk menampilkan kemampuan atau skill yang dimiliki.</li> 
+  <li>ul → daftar tidak berurutan (bullet list) untuk setiap skill.</li> 
+  <li>li → item daftar yang berisi satu skill tertentu.</li>
 
 </ol>
 
