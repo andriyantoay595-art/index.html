@@ -39,17 +39,25 @@
   <h2> Style.css </h2>
   <h3> Body </h3>
 <ol> 
-<li>`background-color: whitesmoke;` → memberi warna latar belakang terang.</li> 
-  <li>`font-family: Arial, Helvetica, sans-serif;` → mengatur jenis font teks di halaman.</li>
-  <li>`margin: 20px;` → memberi jarak sekitar konten dari tepi browser.</li> 
-  <li>`background-image: url("...");` → memasang gambar latar belakang.</li></ol>
+<li>background-color: whitesmoke → memberi warna latar belakang terang.</li> 
+  <li>font-family: Arial, Helvetica, sans-serif → mengatur jenis font teks di halaman.</li>
+  <li>margin: 20px → memberi jarak sekitar konten dari tepi browser.</li> 
+  <li>background-image: url("...jpg") → memasang gambar latar belakang.</li>
 
   <h3> Profile </h3>
   <ol> 
-  <li>`display: flex;` → membuat elemen di dalam profile tersusun secara fleksibel (horizontal/vertikal).</li>
-    <li>`align-items: center;` → menempatkan semua elemen di tengah secara vertikal.</li></ol>
+ <li>display: flex → membuat elemen di dalam profile tersusun fleksibel (horizontal/vertikal).</li> 
+    <li>align-items: center → menempatkan semua elemen di tengah secara vertikal.</li>
+  </ol>
 
-    <
+  <h3> Bagian Gambar Profile </h3>
+  <ol> <li>width & height → mengatur ukuran gambar.</li>
+    <li>border-radius: 50% → membuat gambar berbentuk lingkaran.</li>
+    <li>border: 2px solid #333 → memberi garis tepi berwarna gelap.</li>
+    <li>float: left → gambar mengambang ke kiri agar teks berada di kanan.</li>
+    <li>margin → memberi jarak antara gambar dan elemen lain.</li> </ol>
+
+    
 
 
 
