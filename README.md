@@ -37,8 +37,20 @@
   <li>li → item daftar yang berisi satu skill tertentu.</li>
 
   <h2> Style.css </h2>
+  <h3> Body </h3>
+<ol> 
+<li>`background-color: whitesmoke;` → memberi warna latar belakang terang.</li> 
+  <li>`font-family: Arial, Helvetica, sans-serif;` → mengatur jenis font teks di halaman.</li>
+  <li>`margin: 20px;` → memberi jarak sekitar konten dari tepi browser.</li> 
+  <li>`background-image: url("...");` → memasang gambar latar belakang.</li></ol>
 
-</ol>
+  <h3> Profile </h3>
+  <ol> 
+  <li>`display: flex;` → membuat elemen di dalam profile tersusun secara fleksibel (horizontal/vertikal).</li>
+    <li>`align-items: center;` → menempatkan semua elemen di tengah secara vertikal.</li></ol>
+
+    <
+
 
 
 
