@@ -5,7 +5,8 @@
 <h1> PENDAHULUAN </h1>
 <p> Dalam perkembangan teknologi saat ini, kemampuan membangun sebuah halaman web menjadi keterampilan yang sangat penting bagi mahasiswa, khususnya dalam memahami dasar-dasar pengembangan sistem berbasis web. HTML sebagai fondasi struktur halaman, dan CSS sebagai pengatur tampilan visual, merupakan dua elemen utama yang harus dipahami secara mendalam. Praktikum ini dirancang untuk memberikan pengalaman langsung dalam menerapkan konsep semantic HTML, </p>
 <h1> PEMBAHASAN </h1>
-<h2> index.html & style.css </h2>
+<h2> index.html  </h2>
+
 <p> Halaman ini dirancang untuk menampilkan biodata dengan tampilan yang bersih dan modern. Struktur halaman menggunakan elemen HTML seperti header, nav, section, dan div agar setiap bagian konten tersusun rapi dan mudah dibaca. CSS digunakan untuk mempercantik halaman, termasuk pengaturan warna, ukuran dan jenis font, serta tata letak. Beberapa efek tambahan diterapkan, seperti header yang tetap terlihat saat menggulir halaman, gambar profil berbentuk lingkaran, dan teks yang tersusun rapi sehingga halaman terlihat lebih profesional dan nyaman untuk dinavigasi.</p>
 <p> Fungsi Code Di index.html</p>
 <ol> </ol>
