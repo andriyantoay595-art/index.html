@@ -38,8 +38,8 @@
 </ol>
 
 <p> Halaman ini dirancang untuk menampilkan biodata dengan tampilan yang bersih dan modern. Struktur halaman menggunakan elemen HTML seperti header, nav, section, dan div agar setiap bagian konten tersusun rapi dan mudah dibaca. CSS digunakan untuk mempercantik halaman, termasuk pengaturan warna, ukuran dan jenis font, serta tata letak. Beberapa efek tambahan diterapkan, seperti header yang tetap terlihat saat menggulir halaman, gambar profil berbentuk lingkaran, dan teks yang tersusun rapi sehingga halaman terlihat lebih profesional dan nyaman untuk dinavigasi.</p>
-<p> Fungsi Code Di index.html</p>
-<ol> </ol>
+
+
 
 
 
