@@ -52,55 +52,50 @@
 <li>align-items: center → menempatkan semua elemen di tengah secara vertikal.</li>
 </ol>
 
-<h3> Bagian Pendidikan Terakhir </h3>
+<h3> Gambar Profile </h3>
 <ol> 
-<li>h2 PENDIDIKAN TERAKHIR → subjudul untuk menampilkan riwayat pendidikan.</li> 
-  <li>p → paragraf menjelaskan pendidikan terakhir, semester, kursus tambahan, atau pengalaman belajar.</li>
-  <li>table → membuat tabel untuk menampilkan sekolah dan tahun belajar secara rapi.</li>
-  <li>tr → setiap baris dalam tabel (judul atau data sekolah).</li>
-  <li>th → sel header dalam tabel atau untuk menampilkan nama sekolah dan tahun.</li>
+<li>width & height → mengatur ukuran gambar.</li> 
+<li>border-radius: 50% → membuat gambar berbentuk lingkaran.</li>
+<li>border: 2px solid #333 → memberi garis tepi berwarna gelap.</li>
+<li>float: left → gambar mengambang ke kiri agar teks berada di kanan.</li> 
+<li>margin → memberi jarak antara gambar dan elemen lain.</li>
 </ol>
 
-<h3> Bagian Skill </h3>
+<h3> Judul Profile </h3>
 <ol>
- <li>h2 SKILL → subjudul untuk menampilkan kemampuan atau skill yang dimiliki.</li> 
-  <li>ul → daftar tidak berurutan (bullet list) untuk setiap skill.</li> 
-  <li>li → item daftar yang berisi satu skill tertentu.</li>
+<li>margin: 0 → menghilangkan jarak default di atas.</li>
+<li>margin-bottom: 50px → memberi jarak di bawah judul.</li>
+</ol>  
 
-  <h3> Profile </h3>
+  <h3> Garis HR (Horizontal) </h3>
   <ol> 
- <li>display: flex → membuat elemen di dalam profile tersusun fleksibel (horizontal/vertikal).</li> 
-    <li>align-items: center → menempatkan semua elemen di tengah secara vertikal.</li>
+<li>border: 1px solid #ccc → garis horizontal tipis.</li> 
+<li>margin: 20px 0 → jarak atas dan bawah garis.</li>
   </ol>
 
-  <h3> Bagian Gambar Profile </h3>
-  <ol> <li>width & height → mengatur ukuran gambar.</li>
-    <li>border-radius: 50% → membuat gambar berbentuk lingkaran.</li>
-    <li>border: 2px solid #333 → memberi garis tepi berwarna gelap.</li>
-    <li>float: left → gambar mengambang ke kiri agar teks berada di kanan.</li>
-    <li>margin → memberi jarak antara gambar dan elemen lain.</li> </ol>
+  <h3> Box Biodata </h3>
+  <ol> 
+  <li>width: 95% → lebar kotak 95% dari layar.</li>
+  <li>margin: auto → posisi tengah horizontal.</li> 
+  <li>padding: 20px → jarak isi dari tepi kotak.</li> 
+  <li>border-radius: 10px → sudut kotak melengkung.</li> 
+  <li>background: #fff → latar belakang putih.</li> 
+  <li>box-shadow → efek bayangan agar kotak terlihat mengambang.</li> 
+  <li>box-sizing: border-box → padding & border dihitung dalam lebar kotak.</li> 
+  <li>margin-top & margin-bottom → memberi jarak vertikal antar elemen.</li> 
+  </ol>
 
+  <h3> Heading & Paragraf </h3>
+<ol> 
+<li>h2 → font untuk subjudul.</li> 
+<li>p → font, ukuran, dan jarak antar baris paragraf.</li>
+</ol>
+
+<h3> List/Daftar</h3>
+<ol>
+  <li>ul → font dan ukuran teks untuk daftar skill atau poin-poin.</li>
+</ol>
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h1> KESIMPULAN </h1>
